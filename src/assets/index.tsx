@@ -1,0 +1,1 @@
+export { ReactComponent as RickAndMortyLogo } from './rick-and-morty-logo.svg';
